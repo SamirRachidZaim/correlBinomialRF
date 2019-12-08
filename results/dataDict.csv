@@ -1,0 +1,4 @@
+"Instances","Attributes","AttributeType","Dataset","Task"
+"100","10000","integer","arcene","Classification"
+"1000","5000","integer","gisette","Classification"
+"600","500","integer","madelon","Classification"
